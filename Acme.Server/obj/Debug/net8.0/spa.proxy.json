@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:5173",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\2132316\\source\\repos\\Acme\\Acme.Server\\..\\acme.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
